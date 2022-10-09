@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main() 
 {
-    printf	("hello,world");
+    printf	("hello,freshman");
 	
 	return 0;
 } 
